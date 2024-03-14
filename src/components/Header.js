@@ -3,7 +3,7 @@ function Header() {
     return (
         <div className="container">
             <div className="title">
-            <h1>Plan a Tour</h1>
+            <h1>Tours and Travels</h1>
             </div>
         </div>
     );
